@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(uvicorn:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
