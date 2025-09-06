@@ -1,6 +1,6 @@
 # AI Science Shorts Studio 🎬🤖
 
-**HackOdisha 5.0 Project | Team: [Your Team Name]**
+**HackOdisha 5.0 Project | Team: Sons of SatyaMurthy**
 
 ## 🎯 Project Overview
 
@@ -150,12 +150,6 @@ Final Output
 - Enterprise white-label solutions
 - API marketplace for developers
 - Advanced AI personalization
-
-## 👥 Team
-
-- **[Your Name]**: Workflow Architecture & Integration
-- **[Teammate 2]**: AI Models & Akash Deployment  
-- **[Teammate 3]**: Frontend & Video Assembly
 
 ## 🙏 Akash Network Credit Request
 
